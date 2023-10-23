@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.99" height="18.739" viewBox="0 0 20.99 18.739">
+  <g id="Group_7689" data-name="Group 7689" transform="translate(-132.502 -461.222)">
+    <path id="Path_6651" data-name="Path 6651" d="M10.5,0a10.5,10.5,0,0,1,10.5,10.5c0,5.8-4.7,5.657-10.5,5.657S0,16.291,0,10.5A10.5,10.5,0,0,1,10.5,0Z" transform="translate(132.502 461.222)" fill="#f8f1f1"/>
+    <g id="Icon_download_outline" transform="translate(136.146 463)">
+      <g id="Icon_download_outline-2" data-name="Icon_download_outline">
+        <path id="Path" d="M6.851,0a.961.961,0,0,0-.979.942V9.921L1.744,5.942a1.049,1.049,0,0,0-1.445,0,.959.959,0,0,0,0,1.392L6.078,12.9a1.04,1.04,0,0,0,.774.287,1.041,1.041,0,0,0,.774-.287L13.4,7.334a.96.96,0,0,0,0-1.392,1.049,1.049,0,0,0-1.445,0L7.83,9.921V.942A.961.961,0,0,0,6.851,0Z" transform="translate(0)" fill="#ff9885"/>
+        <path id="Path-2" data-name="Path" d="M0,.942A.961.961,0,0,1,.979,0H12.724A.961.961,0,0,1,13.7.942a.961.961,0,0,1-.979.942H.979A.961.961,0,0,1,0,.942Z" transform="translate(0 15.076)" fill="#ff9885"/>
+      </g>
+    </g>
+  </g>
+</svg>

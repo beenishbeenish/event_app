@@ -1,0 +1,7 @@
+<svg id="Group_7669" data-name="Group 7669" xmlns="http://www.w3.org/2000/svg" width="14.749" height="22.903" viewBox="0 0 14.749 22.903">
+  <g id="Ellipse_321" data-name="Ellipse 321" transform="translate(0.284 17.903)" fill="none" stroke="#f2b6ab" stroke-linecap="round" stroke-width="1">
+    <ellipse cx="7" cy="2.5" rx="7" ry="2.5" stroke="none"/>
+    <ellipse cx="7" cy="2.5" rx="6.5" ry="2" fill="none"/>
+  </g>
+  <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M14.875,3A7.369,7.369,0,0,0,7.5,10.375c0,5.531,7.375,13.7,7.375,13.7s7.375-8.165,7.375-13.7A7.369,7.369,0,0,0,14.875,3Zm0,10.008a2.634,2.634,0,1,1,2.634-2.634A2.635,2.635,0,0,1,14.875,13.008Z" transform="translate(-7.5 -3)" fill="#ff9885"/>
+</svg>

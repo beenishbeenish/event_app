@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "819548886813",
+    "project_id": "event-app-eff0a",
+    "storage_bucket": "event-app-eff0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819548886813:android:d3e3f4d0ec537963fc33f4",
+        "android_client_info": {
+          "package_name": "com.cherrybytes.event_app.event_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819548886813-4u0i5on6ag96mp7aht095lj3i299spnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cherrybytes.event_app.event_app",
+            "certificate_hash": "d8f3d68ab76b025a41f50fb9a2aed400ac7c48c4"
+          }
+        },
+        {
+          "client_id": "819548886813-rjc3nd6988v0milnf1mce00mhp4ps02n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cherrybytes.event_app.event_app",
+            "certificate_hash": "9d539d90f24853ef7c424e661063bea1cdf0b9f4"
+          }
+        },
+        {
+          "client_id": "819548886813-8tdlulr4pqiklcke9nc6snm4oph7kjan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTfMlYI53-luRVcA6AieyAZj5FZwHU34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819548886813-8tdlulr4pqiklcke9nc6snm4oph7kjan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819548886813-od71ml134nh9n04jkt4lgo0jtnf93i3m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jjj",
+                "app_store_id": "12345677"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.99" height="17.778" viewBox="0 0 20.99 17.778">
+  <g id="Group_7688" data-name="Group 7688" transform="translate(-238.17 -461.222)">
+    <path id="Path_6652" data-name="Path 6652" d="M10.5,0a10.5,10.5,0,0,1,10.5,10.5c0,5.8-4.7,5.657-10.5,5.657S0,16.291,0,10.5A10.5,10.5,0,0,1,10.5,0Z" transform="translate(238.17 461.222)" fill="#f8f1f1"/>
+    <g id="Icon_delete_outline" transform="translate(243 464)">
+      <g id="Icon_delete_outline-2" data-name="Icon_delete_outline">
+        <path id="Path" d="M.75,0A.75.75,0,0,1,1.5.75V9a.75.75,0,0,0,.75.75h6A.75.75,0,0,0,9,9V.75a.75.75,0,0,1,1.5,0V9a2.25,2.25,0,0,1-2.25,2.25h-6A2.25,2.25,0,0,1,0,9V.75A.75.75,0,0,1,.75,0Z" transform="translate(0.75 3.75)" fill="#ff9885"/>
+        <path id="Path-2" data-name="Path" d="M.75,0A.75.75,0,0,1,1.5.75v6a.75.75,0,0,1-1.5,0v-6A.75.75,0,0,1,.75,0Z" transform="translate(3.75 4.5)" fill="#ff9885"/>
+        <path id="Path-3" data-name="Path" d="M.75,0A.75.75,0,0,1,1.5.75v6a.75.75,0,0,1-1.5,0v-6A.75.75,0,0,1,.75,0Z" transform="translate(6.75 4.5)" fill="#ff9885"/>
+        <path id="Path-4" data-name="Path" d="M0,.75A.75.75,0,0,1,.75,0h10.5a.75.75,0,0,1,0,1.5H.75A.75.75,0,0,1,0,.75Z" transform="translate(0 1.5)" fill="#ff9885"/>
+        <path id="Path-5" data-name="Path" d="M0,.75A.75.75,0,0,1,.75,0h4.5A.75.75,0,0,1,6,.75V1.5H0Z" transform="translate(3)" fill="#ff9885"/>
+      </g>
+    </g>
+  </g>
+</svg>
